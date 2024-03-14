@@ -1,6 +1,3 @@
-# CLPManagement
-The official Github repo of CL Property Management
-
 # Privacy Policy
 CL Property Management ("CLPM," "we," "us," or "our") is committed to protecting the privacy and security of your personal information. This Privacy Policy describes how CLPM collects, uses, and protects the personal information you provide to us through our website, applications, or other services (collectively, the "Services").
 
@@ -26,5 +23,7 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 ## Contact Us:
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at [insert contact information].
+
+---
 
 # By using our Services, you consent to the collection, use, and disclosure of your personal information as described in this Privacy Policy.
